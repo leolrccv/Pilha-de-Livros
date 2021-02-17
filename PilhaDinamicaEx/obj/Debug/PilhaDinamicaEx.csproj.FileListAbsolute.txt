@@ -1,0 +1,7 @@
+C:\Users\leleo\source\repos\PilhaDinamicaEx\PilhaDinamicaEx\bin\Debug\PilhaDinamicaEx.exe.config
+C:\Users\leleo\source\repos\PilhaDinamicaEx\PilhaDinamicaEx\bin\Debug\PilhaDinamicaEx.exe
+C:\Users\leleo\source\repos\PilhaDinamicaEx\PilhaDinamicaEx\bin\Debug\PilhaDinamicaEx.pdb
+C:\Users\leleo\source\repos\PilhaDinamicaEx\PilhaDinamicaEx\obj\Debug\PilhaDinamicaEx.csprojAssemblyReference.cache
+C:\Users\leleo\source\repos\PilhaDinamicaEx\PilhaDinamicaEx\obj\Debug\PilhaDinamicaEx.csproj.CoreCompileInputs.cache
+C:\Users\leleo\source\repos\PilhaDinamicaEx\PilhaDinamicaEx\obj\Debug\PilhaDinamicaEx.exe
+C:\Users\leleo\source\repos\PilhaDinamicaEx\PilhaDinamicaEx\obj\Debug\PilhaDinamicaEx.pdb
